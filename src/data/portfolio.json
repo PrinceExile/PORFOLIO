@@ -1,0 +1,126 @@
+{
+  "name": "Devarakonda Vignesh Varsha",
+  "title": "CSE (AI & ML) Undergraduate | AI/ML Engineer",
+  "email": "vigneshgiga@gmail.com",
+  "location": "Khammam, Telangana",
+  "linkedin": "https://linkedin.com/in/vignesh-varsha",
+  "github": "https://github.com/vignesh-varsha",
+  "resume": "/Devarakonda_Vignesh_Varsha_Resume.pdf",
+  "summary": "Driven Computer Science Engineering undergraduate specializing in Artificial Intelligence & Machine Learning with an 85% academic record. Industry-trained as an Intern at SkillCraft Technology, with practical skills in Generative AI, automated Python workflows, prompt engineering, and rapid model prototyping. Passionate about engineering impactful AI/ML systems and modern software solutions.",
+  "education": [
+    {
+      "degree": "B.Tech in Computer Science Engineering (AI & ML)",
+      "institution": "Your University Name",
+      "year": "2024–2026",
+      "grade": "85%"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Machine Learning Intern",
+      "company": "SkillCraft Technology",
+      "period": "September 2026 – October 2026",
+      "bullets": [
+        "Engaged in hands-on model training, feature preparation, and pipeline development for core machine learning use cases.",
+        "Integrated AI-assisted coding and debugging practices to improve code maintainability, testing turnaround, and algorithm execution.",
+        "Developed interactive data visualizations and exploratory analytics modules using Python data science ecosystems."
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "id": 1,
+      "name": "Privacy-Preserving Browser AI Agent",
+      "tagline": "SIH26171 - Local DOM analysis & PII detection",
+      "description": "Browser-based AI agent using local DOM analysis and PII detection to redact sensitive information before securely sharing sanitized context with an AI server. Implemented privacy-aware automation with validated actions (clicking, scrolling).",
+      "tech": ["Python", "JavaScript", "DOM Analysis", "PII Detection", "Privacy Engineering"],
+      "category": "AI/ML",
+      "featured": true,
+      "github": "https://github.com/vignesh-varsha/privacy-browser-agent",
+      "demo": "https://privacy-agent-demo.vercel.app",
+      "image": "/projects/privacy-agent.svg"
+    },
+    {
+      "id": 2,
+      "name": "IRIS – AI-Powered Chatbot",
+      "tagline": "Context-aware conversational AI",
+      "description": "Interactive AI chatbot delivering intelligent, context-aware responses and natural language conversations. Integrated AI-driven conversational capabilities for real-time assistance through a user-friendly chat interface.",
+      "tech": ["Python", "NLP", "LLM Integration", "Chat Interface"],
+      "category": "AI/ML",
+      "featured": true,
+      "github": "https://github.com/vignesh-varsha/iris-chatbot",
+      "demo": "https://iris-chatbot.vercel.app",
+      "image": "/projects/iris-chatbot.svg"
+    },
+    {
+      "id": 3,
+      "name": "Suspicious Human Activity Recognition",
+      "tagline": "Deep learning video classification - 90.14% accuracy",
+      "description": "Deep learning system classifying suspicious activities (falling, kicking, running, punching, shooting, snatching) from video sequences using CNN, LSTM, GRU, and Conv3D. Achieved up to 90.14% accuracy with a Time-Distributed CNN model.",
+      "tech": ["Python", "CNN", "LSTM", "GRU", "Conv3D", "Computer Vision"],
+      "category": "Deep Learning",
+      "featured": true,
+      "github": "https://github.com/vignesh-varsha/activity-recognition",
+      "demo": "https://activity-recognition.vercel.app",
+      "image": "/projects/activity-recognition.svg"
+    }
+  ],
+  "skills": {
+    "Programming": ["Python", "Java", "C", "JavaScript", "TypeScript"],
+    "AI/ML": ["Machine Learning", "Deep Learning", "Generative AI", "Prompt Engineering", "Computer Vision", "NLP", "CNN", "RNN/LSTM/GRU", "Conv3D"],
+    "Frameworks & Tools": ["React", "Vite", "PyTorch", "TensorFlow", "Git", "VS Code", "Docker", "Google AI Studio"],
+    "Data & Analytics": ["Pandas", "NumPy", "Matplotlib", "Seaborn", "Excel (Advanced)", "Data Visualization"]
+  },
+  "certifications": [
+    {
+      "name": "30-Day Python Using AI Program",
+      "issuer": "AI for Techies",
+      "date": "June 2026",
+      "url": "/certificates/python-using-ai-workshop.jpeg",
+      "image": "/certificates/python-using-ai-workshop.jpeg"
+    },
+    {
+      "name": "Generative AI Mastermind",
+      "issuer": "Outskill",
+      "date": "2026",
+      "url": "/certificates/generative-ai-mastermind.jpeg",
+      "image": "/certificates/generative-ai-mastermind.jpeg"
+    },
+    {
+      "name": "Claude 101 Workshop",
+      "issuer": "Outskill",
+      "date": "2026",
+      "url": "/certificates/claude-101-workshop.png",
+      "image": "/certificates/claude-101-workshop.png"
+    },
+    {
+      "name": "AI Tools Mastery Workshop",
+      "issuer": "Clapingo",
+      "date": "February 2026",
+      "url": "/certificates/ai-tools-mastery.jpeg",
+      "image": "/certificates/ai-tools-mastery.jpeg"
+    },
+    {
+      "name": "Advanced Excel Workshop",
+      "issuer": "Ira Skills / MSME",
+      "date": "2026",
+      "url": "/certificates/advanced-excel-workshop.jpeg",
+      "image": "/certificates/advanced-excel-workshop.jpeg"
+    }
+  ],
+  "strengths": [
+    {
+      "title": "Rapid Prototyping",
+      "desc": "Ability to quickly translate AI concepts into executable Python solutions."
+    },
+    {
+      "title": "Collaborative Problem-Solving",
+      "desc": "Agile team contributor with experience building projects and participating in hackathons."
+    },
+    {
+      "title": "Continuous Upskilling",
+      "desc": "Consistently expanding practical knowledge across modern AI tooling and frameworks."
+    }
+  ],
+  "languages": ["English", "Hindi", "Telugu"]
+}

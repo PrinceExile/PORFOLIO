@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 250" fill="none">
+  <rect width="400" height="250" fill="url(#bg)"/>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="400" y2="250" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#991b1b"/>
+      <stop offset="100%" stop-color="#f59e0b"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="400" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#ef4444"/>
+      <stop offset="100%" stop-color="#fbbf24"/>
+    </linearGradient>
+  </defs>
+  <rect x="50" y="50" width="300" height="150" rx="12" fill="url(#accent)" opacity="0.1"/>
+  <rect x="50" y="50" width="300" height="150" rx="12" stroke="url(#accent)" stroke-width="2" opacity="0.3"/>
+  <g fill="url(#accent)">
+    <circle cx="120" cy="100" r="12" opacity="0.9"/>
+    <circle cx="200" cy="100" r="12" opacity="0.7"/>
+    <circle cx="280" cy="100" r="12" opacity="0.5"/>
+    <circle cx="120" cy="160" r="12" opacity="0.6"/>
+    <circle cx="200" cy="160" r="12" opacity="0.8"/>
+    <circle cx="280" cy="160" r="12" opacity="0.4"/>
+  </g>
+  <path d="M120 100 L200 100 L280 100" stroke="url(#accent)" stroke-width="2" fill="none" opacity="0.4" stroke-dasharray="5,5"/>
+  <path d="M120 160 L200 160 L280 160" stroke="url(#accent)" stroke-width="2" fill="none" opacity="0.4" stroke-dasharray="5,5"/>
+  <path d="M120 100 L120 160" stroke="url(#accent)" stroke-width="2" fill="none" opacity="0.4" stroke-dasharray="5,5"/>
+  <path d="M200 100 L200 160" stroke="url(#accent)" stroke-width="2" fill="none" opacity="0.4" stroke-dasharray="5,5"/>
+  <path d="M280 100 L280 160" stroke="url(#accent)" stroke-width="2" fill="none" opacity="0.4" stroke-dasharray="5,5"/>
+  <circle cx="200" cy="130" r="25" fill="none" stroke="url(#accent)" stroke-width="3" opacity="0.8"/>
+  <text x="200" y="132" text-anchor="middle" fill="white" font-family="system-ui, sans-serif" font-size="24" font-weight="800">90.14%</text>
+  <text x="200" y="220" text-anchor="middle" fill="white" font-family="system-ui, sans-serif" font-size="14" font-weight="600" opacity="0.9">Suspicious Activity Recognition</text>
+  <text x="200" y="238" text-anchor="middle" fill="white" font-family="system-ui, sans-serif" font-size="11" opacity="0.7">CNN • LSTM • GRU • Conv3D • 90.14% Accuracy</text>
+</svg>
